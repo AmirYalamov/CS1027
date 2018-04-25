@@ -1,0 +1,7 @@
+First line: #rows, #columns, optional delay, 
+5 5
+W W S U U
+ W U W U U
+W U W U U
+ W D U U W
+W U W U E 

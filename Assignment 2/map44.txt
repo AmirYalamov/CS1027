@@ -1,0 +1,7 @@
+First line: #rows, #columns, optional delay, optional chamber size. 
+5 5
+N N I N N
+ N F F F N
+N F N F F
+ N F F F N
+N F N F C 
