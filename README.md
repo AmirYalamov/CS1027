@@ -1,6 +1,6 @@
 # CS1027
 
-This repo is for people that wish to see my coding *quality* and *style*. I have provided a desccription of each assignment as well as the exact files that I coded from scratch.
+This repo is for people that wish to see my coding *quality* and *style*. It contains the assignments for Western University's CS1027 course. I have provided a desccription of each assignment as well as the exact files that I coded from scratch.
 
 ### Assignment Description
 
